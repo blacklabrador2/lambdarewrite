@@ -45,7 +45,7 @@ SETUP
   g) You will be given a unique URL for your CloudFront distribution and the distribution may take around 15 minutes to
       complete
       
-Testing
+TESTING
 1) Use the URL you were given for your CloudFront distribution to test
    a) No URI should redirect you to an error page
    b) /test1, /test2, /test3 should redirect you to testpage1.html, testpage2.html, and testpage3.html respectively
